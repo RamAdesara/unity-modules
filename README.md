@@ -1,3 +1,4 @@
 # unity-modules
-Modules to help implement Unity projects, for example the object pickup module, which contains a simple implementation of a player that can pick up objects. These modules can be used and reused for various Unity projects.
+The modules in the repository are essentially the subparts of a complete game. For example, the object pickup module contains a description of how to implement a player gameObject that can pick up items using their 'hand'. There are C# scripts included and you can understand them better by reading the comments. A complete game can be created by selecting and synthesizing the relevant modules from here and then expanding upon them.
+
 **Difficulty**: beginner level
